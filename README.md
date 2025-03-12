@@ -1,5 +1,5 @@
 # Medical-Chatbot
-A Python-based medical Chatbot! (It's a simple chabot that only has access to diagnose a few diseases and it's also my first chatbot, so it isn't as efficient as you would think it is)
+A Python-based medical Chatbot! (It's a simple chabot that only has access to diagnose a few diseases, and it's also my first chatbot, so it isn't as efficient as you would think it is). This was also my Spark-X project, which is why most files are named "SparkX", so please don't worry about that.
 
 
 How to open the chatbot:
