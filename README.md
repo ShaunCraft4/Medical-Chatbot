@@ -1,7 +1,9 @@
 # Medical-Chatbot
 A python based medical Chatbot! (Its a simple chabot which only has access to diagnose a few diseases and its also my first chatbot so it isnt as efficient as you would think it is)
 
+
 Requirments:
+
 1]Once zip file is downloaded, extract the file.
 
 2]After extracting it, go to your local disc "C", then users, then create a file there named "shaun"
